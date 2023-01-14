@@ -1,0 +1,15 @@
+/Users/samil/Projects/homeworkArrays/homeworkArrays/bin/Debug/net7.0/homeworkArrays
+/Users/samil/Projects/homeworkArrays/homeworkArrays/bin/Debug/net7.0/homeworkArrays.deps.json
+/Users/samil/Projects/homeworkArrays/homeworkArrays/bin/Debug/net7.0/homeworkArrays.runtimeconfig.json
+/Users/samil/Projects/homeworkArrays/homeworkArrays/bin/Debug/net7.0/homeworkArrays.dll
+/Users/samil/Projects/homeworkArrays/homeworkArrays/bin/Debug/net7.0/homeworkArrays.pdb
+/Users/samil/Projects/homeworkArrays/homeworkArrays/obj/Debug/net7.0/homeworkArrays.csproj.AssemblyReference.cache
+/Users/samil/Projects/homeworkArrays/homeworkArrays/obj/Debug/net7.0/homeworkArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samil/Projects/homeworkArrays/homeworkArrays/obj/Debug/net7.0/homeworkArrays.AssemblyInfoInputs.cache
+/Users/samil/Projects/homeworkArrays/homeworkArrays/obj/Debug/net7.0/homeworkArrays.AssemblyInfo.cs
+/Users/samil/Projects/homeworkArrays/homeworkArrays/obj/Debug/net7.0/homeworkArrays.csproj.CoreCompileInputs.cache
+/Users/samil/Projects/homeworkArrays/homeworkArrays/obj/Debug/net7.0/homeworkArrays.dll
+/Users/samil/Projects/homeworkArrays/homeworkArrays/obj/Debug/net7.0/refint/homeworkArrays.dll
+/Users/samil/Projects/homeworkArrays/homeworkArrays/obj/Debug/net7.0/homeworkArrays.pdb
+/Users/samil/Projects/homeworkArrays/homeworkArrays/obj/Debug/net7.0/homeworkArrays.genruntimeconfig.cache
+/Users/samil/Projects/homeworkArrays/homeworkArrays/obj/Debug/net7.0/ref/homeworkArrays.dll
